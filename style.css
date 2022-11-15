@@ -11,12 +11,14 @@ input[type="text"] {
   margin-top: 15px;
   padding: 2px;
   border: 1px solid lightblue;
+  border-radius: 7px;
 }
 #submit {
   border: none;
   color: black;
   padding: 5px;
   font-weight: bold;
+  border-radius: 7px;
 }
 .output {
   width: 400px;
